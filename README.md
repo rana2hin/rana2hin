@@ -65,6 +65,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rana2hin&langs_count=8)](https://github.com/rana2hin/github-readme-stats)
+
 
 📈 my github stats
 
