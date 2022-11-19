@@ -1,4 +1,4 @@
-### hey there 
+<h1 align="center">Hi, I'm <a href="https://rana2hin.com">Tuhin</a> 👋</h1>
 <a href="https://www.linkedin.com/in/rana2hin/">
   <img align="left" alt="Tuhin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
