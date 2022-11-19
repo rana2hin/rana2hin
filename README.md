@@ -3,7 +3,7 @@
   <a href="https://twitter.com/rana2hin"><img align="left" alt="Tuhin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
   <a href="https://www.instagram.com/rana2hin/"><img align="left" alt="Tuhin's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
   <a href="https://discord.gg/rana2hin"><img align="left" alt="Tuhin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
-<p align="left"><img src="https://visitor-badge.glitch.me/badge?page_id=rana2hin" width="100"/></p>
+<p align="left"><img src="https://visitor-badge.glitch.me/badge?page_id=rana2hin" width="120"/></p>
 <br/>
 
 A passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
