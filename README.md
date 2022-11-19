@@ -12,8 +12,7 @@
   <img align="left" alt="Tuhin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=rana2hin)
-<img src="https://visitor-badge.glitch.me/badge?page_id=rana2hin" width="200" height="50" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=rana2hin" width="200" height="40" />
 
 <br />
 
