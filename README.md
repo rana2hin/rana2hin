@@ -1,17 +1,9 @@
 <h1 align="center">Hi, I'm <a href="https://rana2hin.com">Tuhin</a> 👋</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/rana2hin/">
-  <img align="left" alt="Tuhin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/rana2hin">
-  <img align="left" alt="Tuhin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/rana2hin/">
-  <img align="left" alt="Tuhin's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/rana2hin">
-  <img align="left" alt="Tuhin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a></p>
+  <a href="https://www.linkedin.com/in/rana2hin/"><img align="left" alt="Tuhin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+  <a href="https://twitter.com/rana2hin"><img align="left" alt="Tuhin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+  <a href="https://www.instagram.com/rana2hin/"><img align="left" alt="Tuhin's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a><a href="https://discord.gg/rana2hin"><img align="left" alt="Tuhin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
+</p>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=rana2hin" width="200"/></p>
 <br />
 
