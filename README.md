@@ -7,18 +7,6 @@
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=rana2hin" width="200"/></p>
 <br />
 
-<p align="center">
-  <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
-  <a href="https://www.linkedin.com/in/peterthehan"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
-  <a href="https://www.npmjs.com/~peterthehan"><img alt="npm" title="npm" height="48" width="48" src="assets/npm.svg"></a>
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/WjEFnzC"><img alt="Discord" title="Discord" height="48" width="48" src="assets/discord.svg"></a>
-  <a href="https://twitter.com/PeterTheHan"><img alt="Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg"></a>
-  <a href="https://youtube.com/@peterthehan"><img alt="YouTube" title="YouTube" height="48" width="48" src="assets/youtube.svg"></a>
-</p>
-
 A passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
