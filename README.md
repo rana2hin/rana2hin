@@ -13,7 +13,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rana2hin)
-<img src="https://visitor-badge.glitch.me/badge?page_id=rana2hin" width="200" height="200" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=rana2hin" width="200" height="50" />
 
 <br />
 
