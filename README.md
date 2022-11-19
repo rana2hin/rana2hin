@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm <a href="https://rana2hin.com">Tuhin</a> 👋</h1>
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=rana2hin" width="200"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/rana2hin/">
   <img align="left" alt="Tuhin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -12,8 +11,8 @@
 </a>
 <a href="https://discord.gg/rana2hin">
   <img align="left" alt="Tuhin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-</p>
+</a></p>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=rana2hin" width="200"/></p>
 <br />
 
 A passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
