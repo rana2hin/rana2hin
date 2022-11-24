@@ -5,7 +5,7 @@
   <a href="https://discord.gg/rana2hin"><img align="left" alt="Tuhin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
 <p align="left"><img src="https://visitor-badge.glitch.me/badge?page_id=rana2hin" width="120"/></p>
 <br/>
-![Visitor Count](https://profile-counter.glitch.me/rana2hin/count.svg)
+
 A passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
@@ -34,11 +34,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ```text
 Pythom       19 hrs 16 mins  ██████████████████████▓░░   90.15 %
-R            42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-JavaScript   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-HTML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+R            18 hrs 50 mins  █████████████████████░░░░   89.32 %
+JavaScript   12 hrs 10 mins  ███████████████░░░░░░░░░░   70.52 %
+HTML         5 hrs 35 mins   █████████░░░░░░░░░░░░░░░░   36.90 %
 JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other        3 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   28.30 %
 ```
 
 <!--END_SECTION:waka-->
